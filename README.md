@@ -1,2 +1,2 @@
-# CodingTest
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+예 요즘은 안풀고 있습니다
+조만간 다시 풀거 같습니다
